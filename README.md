@@ -17,8 +17,6 @@
 - `mail` muzi5@kakao.com
 - `tel+82` 010-3616-2231
 
-## asd
-
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzi55&show_icons=true&theme=vue)
