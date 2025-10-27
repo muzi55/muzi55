@@ -10,8 +10,9 @@
 <br/>
 
 ## Address
-- `mail` muzi5@kakao.com
-- `tel+82` 010-3616-2231
+- **mail**: [muzi5@kakao.com](mailto:muzi5@kakao.com)
+- **phone**: [010-3616-2231](tel:01036162231)
+- [**`blog`**](https://velog.io/@muzi55/posts) https://velog.io/@muzi55/posts
 
 <br/>
 
