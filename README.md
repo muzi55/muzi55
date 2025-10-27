@@ -15,5 +15,14 @@
 
 <br/>
 
+## Career
+- UBION 프리렌서 2025.02 ~ 현재
+  - 통신 서비스 개발
+
+- 라이너스 프론트 개발자 2023.12 ~ 2024.10
+  - LMS 프론트 개발
+  
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzi55&show_icons=true&theme=vue)
 
